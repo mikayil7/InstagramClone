@@ -8,7 +8,7 @@ try {
   console.log('Signed out successfully!')
 }
  catch (error) {
-  console.log(error)
+  console.log("Message:"+ error)
 }
 }
 const Header = ({ navigation }) => {
