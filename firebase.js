@@ -2,12 +2,12 @@ import  firebase from 'firebase';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDwir9UYBmw02HWo0cEBXOrjYzVIUULLXA",
-  authDomain: "rn-instagram-clone-1ed52.firebaseapp.com",
-  projectId: "rn-instagram-clone-1ed52",
-  storageBucket: "rn-instagram-clone-1ed52.appspot.com",
-  messagingSenderId: "274984532752",
-  appId: "1:274984532752:web:f669ee6caf6962a2c34395",
+  apiKey: "AIzaSyBolPethJiY7k9OzEKbiCrjL4cmUxNYGD0",
+  authDomain: "instagramclone-8e608.firebaseapp.com",
+  projectId: "instagramclone-8e608",
+  storageBucket: "instagramclone-8e608.appspot.com",
+  messagingSenderId: "48185006347",
+  appId: "1:48185006347:web:801a46bd3b3beb3a886a0e"
 }
 
 !firebase.apps.length ? firebase.initializeApp(firebaseConfig) : firebase.app();

@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, Image } from "react-native";
+import { View, StyleSheet, Image } from "react-native";
 import SignUpForm from "../components/signupScreen/SignUpForm";
 
 const INSTAGRAM_LOGO = "https://img.icons8.com/fluency/452/instagram-new.png";

@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     borderWidth: activeTab === "Profile" ? 2 : 0,
     borderColor: "#fff",
-    tintColor:"",
+    //tintColor:'transparent',
   }),
 });
 

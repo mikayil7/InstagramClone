@@ -16,4 +16,4 @@ user ? setCurrentUser(user) : setCurrentUser(null)
     return <>{currentUser ? <SignedInStack/> : <SignedOutStack/>}</>
 }
 
-export default Authnavigation
+export default Authnavigation;
